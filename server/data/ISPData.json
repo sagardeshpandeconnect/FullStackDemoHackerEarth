@@ -1,0 +1,102 @@
+[
+    {
+        "name": "BSNL",
+        "lowest_price": 400,
+        "rating": 3.2,
+        "max_speed": 45,
+        "description": "Some dummy description about BSNL",
+        "contact_no": 44444121,
+        "email": "121@in.bsnl.com",
+        "image": "https://res.cloudinary.com/dbrbokt4s/image/upload/v1716496979/ISP/BSNL_logo_with_slogan.svg_zje6gv.png",
+        "url": "https://www.bsnl.co.in/" 
+},
+    {
+        "name": "Airtel",
+        "lowest_price": 450,
+        "rating": 3.4,
+        "max_speed": 50,
+        "description": "Some dummy description about Airtel",
+        "contact_no": 44444125,
+        "email": "131@in.airtel.com",
+        "image": "https://res.cloudinary.com/dbrbokt4s/image/upload/v1716497168/ISP/download_vpgplo.png",
+        "url": "https://www.airtel.in/"  
+},
+    {
+        "name": "Hathway",
+        "lowest_price": 500,
+        "rating": 3.6,
+        "max_speed": 55,
+        "description": "Some dummy description about Hathway",
+        "contact_no": 44444130,
+        "email": "141@in.hathway.com",
+        "image": "https://res.cloudinary.com/dbrbokt4s/image/upload/v1716497306/ISP/download_gwgu2n.png",
+        "url": "https://www.hathway.com/" 
+},
+    {
+        "name": "BBNL / BNET",
+        "lowest_price": 550,
+        "rating": 3.8,
+        "max_speed": 60,
+        "description": "Some dummy description about BBNL / BNET",
+        "contact_no": 44444135,
+        "email": "151@in.bbnl.com",
+        "image": "https://res.cloudinary.com/dbrbokt4s/image/upload/v1716497471/ISP/download_y12egj.png",
+        "url": "https://bbnl.nic.in/"  
+},
+    {
+        "name": "ACT Broadband",
+        "lowest_price": 600,
+        "rating": 4,
+        "max_speed": 65,
+        "description": "Some dummy description about ACT Broadband",
+        "contact_no": 44444155,
+        "email": "161@in.act.com",
+        "image": "https://res.cloudinary.com/dbrbokt4s/image/upload/v1716497598/ISP/download_kwyp5y.png",
+        "url": "https://www.actcorp.in/"  
+},
+    {
+        "name": "YOU Broadband",
+        "lowest_price": 650,
+        "rating": 4.2,
+        "max_speed": 70,
+        "description": "Some dummy description about YOU Broadband",
+        "contact_no": 44444160,
+        "email": "171@in.you.com",
+        "image": "https://res.cloudinary.com/dbrbokt4s/image/upload/v1716497730/ISP/logo-2017_w3mlsw.png",
+        "url": "https://youbroadband.in/"  
+},
+    {
+        "name": "Tikona Digital Network",
+        "lowest_price": 700,
+        "rating": 4.4,
+        "max_speed": 75,
+        "description": "Some dummy description about Tikona Digital Network",
+        "contact_no": 44444165,
+        "email": "181@in.tikona.com",
+        "image": "https://res.cloudinary.com/dbrbokt4s/image/upload/v1716497842/ISP/download_jd1hcu.png",
+        "url": "https://www.tikona.in/"  
+},
+    {
+        "name": "Railtel",
+        "lowest_price": 750,
+        "rating": 4.6,
+        "max_speed": 80,
+        "description": "Some dummy description about Railtel",
+        "contact_no": 44444170,
+        "email": "181@in.tikona.com",
+        "image": "https://res.cloudinary.com/dbrbokt4s/image/upload/v1716497977/ISP/images_mphf8j.png",
+        "url": "https://www.railtel.in/our-expertise/railwire-broadband.html"  
+},
+    {
+        "name": "Reliance Jio",
+        "lowest_price": 800,
+        "rating": 4.8,
+        "max_speed": 85,
+        "description": "Some dummy description about Reliance Jio",
+        "contact_no": 44444175,
+        "email": "191@in.jio.com",
+        "image": "https://res.cloudinary.com/dbrbokt4s/image/upload/v1716498153/ISP/Plume_Jio_Logo-768x402_b7duqx.jpg",
+        "url": "https://www.jio.com/" 
+}
+
+]
